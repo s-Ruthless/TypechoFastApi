@@ -6,7 +6,7 @@
 
 - 作者：s-Ruthless
 - GitHub：[@s-Ruthless](https://github.com/s-Ruthless)
-- 博客：[https://blog.emoao.com/](https://blog.emoao.com/)
+- 项目地址：[https://github.com/s-Ruthless/TypechoFastApi](https://github.com/s-Ruthless/TypechoFastApi)
 
 ## 特性 ✨
 
