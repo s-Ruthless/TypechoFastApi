@@ -5,9 +5,9 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * Typecho REST API 插件
  * 
  * @package TypechoFastApi
- * @author YourName
+ * @author s-Ruthless
  * @version 1.0.0
- * @link https://github.com/yourusername/TypechoFastApi
+ * @link https://github.com/s-Ruthless/TypechoFastApi
  */
 class TypechoFastApi_Plugin implements Typecho_Plugin_Interface
 {
